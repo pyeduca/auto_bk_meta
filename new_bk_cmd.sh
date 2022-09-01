@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# Direcion actual (donde esta el key pair)
+# Direcion actual (donde esta el key pair) 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
+
 dirAct=$PWD
 dateAuxServer=$(date +%d-%m-%Y)
 dateAuxDrive=$(date +%Y-%m-%Y)_cms
