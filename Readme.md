@@ -14,6 +14,8 @@ Auto login para acceder a  la base de datos.
 
 Proceso a ser realizado en el servidor del cual se quiere hacer el backup.
 https://stackoverflow.com/questions/16786011/postgresql-pgpass-not-working
+https://juliorestrepo.wordpress.com/2011/12/01/pgpass-es-mi-amigo/
+
 * Crear fichero .pgpassh
 
 
